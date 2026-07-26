@@ -2,13 +2,7 @@
 
 A PLC ladder logic simulation of an automatic Star-Delta motor starter built using **CodeSys**. The system starts the motor in Star configuration for reduced starting current, then automatically transitions to Delta configuration for full running torque after a timed delay.
 
----
 
-## 📹 Demo Video
-
-🎥 [Watch Simulation Video on YouTube](#) ← *Replace this with your YouTube link*
-
----
 
 ## 📌 Project Overview
 
