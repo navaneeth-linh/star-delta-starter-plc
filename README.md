@@ -81,7 +81,6 @@ A simple HMI was built in CodeSys with **start** and **stop** push buttons and t
 star-delta-starter-plc/
 ├── media/
 │   ├── ladder_logic.pdf
-│   ├── plc_program_screenshot.png
 │   └── visualization_screenshot.png
 ├── README.md
 ```
